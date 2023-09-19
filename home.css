@@ -1,0 +1,304 @@
+.adres
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    position: absolute;
+    padding-left: 25px;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.telefon
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.mail
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    position: absolute;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.rejestracja
+{
+    text-decoration: none;
+    font-family: 'Concert One', cursive;
+    color: white;
+    padding-top: 4px;
+    font-size: 19px;
+}
+.rejestracja:hover
+{
+    color: #393939;
+}
+.logowanie:hover
+{
+    color: #393939;
+}
+.crej
+{
+    display: grid;
+    justify-content:flex-end;
+}
+.clog
+{
+    display: grid;
+    justify-content: center;
+}
+
+.logowanie
+{
+    text-decoration: none;
+    font-family: 'Concert One', cursive;
+    color: white;
+    padding-top: 4px;
+    font-size: 19px;
+}
+.wyloguj
+{
+    text-decoration: none;
+    font-family: 'Concert One', cursive;
+    color: white;
+    padding-top: 12px;
+    font-size: 19px;
+}
+.wyloguj:hover
+{
+    color: #393939;
+}
+.konto
+{
+    text-decoration: none;
+    font-family: 'Concert One', cursive;
+    color: white;
+    padding-top: 12px;
+    font-size: 19px;
+}
+.konto:hover
+{
+    color: #393939;
+}
+#zielone-logo
+{
+    font-family: 'Concert One', cursive;
+    color: #17e074;
+    font-size: 25px;
+    
+}
+#pole-logo
+{
+    font-family: 'Concert One', cursive;
+    color: black;
+    font-size: 25px;
+    
+}
+
+.menu-bar
+{
+    display: grid; 
+    justify-content: flex-end;
+    padding-top: 40px;
+}
+
+.menu > a
+{
+    text-decoration: none;
+    font-family: 'Concert One', cursive;
+    color: black;
+    font-size: 20px;
+}
+
+.menu > a:hover
+{
+    text-decoration: underline;
+    color: #17e074;
+}
+
+.menu > a:active
+{
+    color: #17e074;
+}
+
+.baner
+{
+    background-image:url(Grafiki/pole-namiotowe-flosek_2364_7.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 680px;
+    background-position: 0 -130px;
+    position: relative;
+}
+
+.przycisk-rezerwuj
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    letter-spacing: 6px;
+    text-align: center;
+    background-color: rgba(0,0,0, 0.6);
+}
+
+.przycisk-rezerwuj:hover
+{
+    background-color: rgba(23,224,116,0.9)
+    
+}
+
+#baner-zielone
+{
+    font-family: 'Concert One', cursive; 
+    font-size: 140px;
+    color: #17e074;
+    padding-top: 180px;
+
+    text-shadow: 2px 2px 4px #575656;
+
+}
+#baner-pole
+{
+    font-family: 'Concert One', cursive; 
+    font-size: 140px;
+    color: #f3f3f3;
+    margin-top: -30px;
+    text-shadow: 2px 2px 4px #6c6b6b;
+}
+
+#tyt-1-1
+{
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+    color: #17e074;
+}
+
+#tyt-1-2
+{
+    font-family: 'Concert One', cursive;
+    font-size: 60px;
+    color: black;
+}
+.c1
+{
+height: 0;
+}
+.cc1
+{
+    display: grid;
+    justify-content: center;
+}
+.kwadraty
+{
+    padding-top: 124vh;
+    display: grid;
+    justify-content: center;
+}
+
+.kwadrat1
+{
+
+    background-color: #2a2c2b;
+    margin: -130vh 0 ;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    display: grid;
+    justify-content: center;
+}
+
+.kwadrat1:hover
+{
+    border: 3px solid;
+    border-color: #2a2c2b;
+}
+
+.pasek_wypoczynek
+{
+    display: grid;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.rez_cennik
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    letter-spacing: 6px;
+    text-align: center;
+    background-color: #2a2c2b;
+}
+
+.rez_cennik:hover
+{
+    background-color: rgba(23,224,116,0.9)
+    
+}
+
+.stopka
+{
+    background-color: #f3f3f3;
+}
+
+.stopka_zielony
+{
+    font-family: 'Concert One', cursive;
+    color: #17e074;
+    font-size: 22px;
+}
+.stopka_czarny
+{
+    font-family: 'Concert One', cursive;
+    color: black;
+    font-size: 22px;
+}
+
+.stopka_linki > a
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.kamper-wybor>p:hover{
+    font-size: 55px;
+    color: #17e074;
+}
+.namiot-wybor>p:hover{
+    font-size: 55px;
+    color: #17e074;
+}
+
+.mapa
+{
+    color: black;
+}
+
+.mapa:hover
+{
+    color: #17e074;
+}
+
+.podsumowanie
+{
+    color: #17e074;
+}
+.rez_podsumowanie
+{
+    font-family: 'Concert One', cursive;
+    color: white;
+    letter-spacing: 6px;
+    text-align: center;
+    background-color: #2a2c2b;
+}
+
+.rez_podsumowanie:hover
+{
+    color: gainsboro;
+    
+}
